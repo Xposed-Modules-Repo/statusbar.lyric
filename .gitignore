@@ -1,7 +1,0 @@
-.gradle
-app/release
-app/build
-!app/libs/classes.jar
-/.idea/
-/.idea/inspectionProfiles/
-local.properties
