@@ -70,4 +70,10 @@
 
 ## App active adaptation
 
-please check [Api](./Api)
+please check [Api](https://github.com/577fkj/StatusBarApiExample)
+
+## EULA & License
+
+[EUAL](./EUAL.md)
+
+[MIT License](./LICENSE)
