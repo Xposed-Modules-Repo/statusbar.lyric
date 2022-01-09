@@ -64,14 +64,6 @@
 
 请查看 [Api](https://github.com/577fkj/StatusBarApiExample)
 
-## 贡献
-
-[贡献](doc/CONTRIBUTING.md)
-
-[赞助列表](doc/SPONSOR.md)
-
-<img height="400px" src="./images/3to1.jpg" />
-
 ## EULA & License
 
 [EUAL](EUAL.md)
