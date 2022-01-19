@@ -56,7 +56,7 @@
 
 ### 使用教程
 
-[HELP](doc/HELP.md)
+[HELP](https://github.com/577fkj/MIUIStatusBarLyric/blob/main/doc/HELP.md)
 
 ### 联系我们
 
@@ -73,9 +73,9 @@
 
 [贡献](doc/CONTRIBUTING.md)
 
-[赞助列表](https://github.com/577fkj/MIUIStatusBarLyric/blob/dev/doc/SPONSOR.md)
+[赞助列表](https://github.com/577fkj/MIUIStatusBarLyric/blob/Dev/doc/SPONSOR.md)
 
-<img height="400px" src="./images/3to1.jpg" />
+<img height="400px" src="https://raw.githubusercontent.com/577fkj/MIUIStatusBarLyric/Dev/images/3to1.jpg" />
 
 ## EULA & License
 
