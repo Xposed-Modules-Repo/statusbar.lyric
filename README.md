@@ -73,7 +73,7 @@
 
 [贡献](doc/CONTRIBUTING.md)
 
-[赞助列表](doc/SPONSOR.md)
+[赞助列表](https://github.com/577fkj/MIUIStatusBarLyric/blob/dev/doc/SPONSOR.md)
 
 <img height="400px" src="./images/3to1.jpg" />
 
