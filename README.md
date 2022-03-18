@@ -1,4 +1,4 @@
-<h1 align="center">状态栏歌词</h1>
+<h1 align="center">墨•状态栏歌词</h1>
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 
 [![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2F577fkj%2FStatusBarLyric%2Fbadge%3Fref%3Dmain&style=flat)](https://actions-badge.atrox.dev/577fkj/StatusBarLyric/goto?ref=main)
 [![GitHub Star](https://img.shields.io/github/stars/577fkj/StatusBarLyric.svg?style=social)](https://github.com/577fkj/StatusBarLyric)
-[![电报群](https://img.shields.io/badge/电报群-MIUIStatusBatLyric-blue.svg?style=flat-square&color=12b7f5)](https://t.me/MIUIStatusBatLyric)
+[![电报群](https://img.shields.io/badge/电报群-StatusBatLyric-blue.svg?style=flat-square&color=12b7f5)](https://t.me/StatusBatLyric)
 [![QQ群](https://img.shields.io/badge/QQ群-884185860-blue.svg?style=flat-square&color=12b7f5)](https://qm.qq.com/cgi-bin/qm/qr?k=ea_MP7zFoZJEdpxDFQcadBdbZmwYXZHh&jump_from=webapi)
 [![爱发电](https://img.shields.io/badge/爱发电-@xiao_wine-blue.svg?style=flat-square&color=12b7f5)](https://afdian.net/@xiao_wine)
 
@@ -20,7 +20,7 @@
 
 ### 语言 / Language
 
-简体中文 / [English](README_EN.md)
+简体中文 / [English](https://github.com/Block-Network/StatusBarLyric/blob/Dev/README_EN.md)
 
 ### 理论支持 __所有__ 官方系统版本
 
@@ -37,6 +37,12 @@
 - @QQ little ice
 - @咕灵谷灵咕 （感谢提供flyme获取歌词的技术支持）
 
+## 帮助翻译
+
+[![Crowdin](https://badges.crowdin.net/statusbarlyric/localized.svg)](https://crowdin.com/project/statusbarlyric)
+
+[点击进入Crowdin](https://crowdin.com/project/statusbarlyric)
+
 ### 下载
 
 - [Releases](https://github.com/577fkj/StatusBarLyric/releases)
@@ -46,12 +52,12 @@
 
 ### 使用教程
 
-[HELP](doc/HELP.md)
+[HELP](https://github.com/Block-Network/StatusBarLyric/blob/Dev/doc/HELP.md)
 
 ### 联系我们
 
 - [QQ交流群](https://jq.qq.com/?_wv=1027&amp;k=KQeQjgsv)
-- [电报](https://t.me/MIUIStatusBatLyric)
+- [电报](https://t.me/StatusBatLyric)
 - [酷安](https://www.coolapk.com/apk/cn.fkj233.xposed.statusbarlyric)
 - [BUG反馈(Github)](https://github.com/577fkj/StatusBarLyric/issues/new)
 
@@ -60,8 +66,17 @@
 请查看 [Api](https://github.com/577fkj/StatusBarApiExample)
 
 
+## 贡献
+
+[想做贡献？](https://github.com/Block-Network/StatusBarLyric/blob/Dev/doc/CONTRIBUTING.md)  
+[合作名单](https://github.com/Block-Network/StatusBarLyric/blob/Dev/doc/Cooperate.md)   
+[赞助列表](https://github.com/Block-Network/StatusBarLyric/blob/Dev/doc/SPONSOR.md)  
+
+<img height="400px" src="https://github.com/Block-Network/StatusBarLyric/blob/Dev/images/alipay.jpg" />
+<img height="400px" src="https://github.com/Block-Network/StatusBarLyric/blob/Dev/images/wechat.jpg" />
+
 ## EULA & License
 
-[EULA](doc/EULA.md)
+[EULA](https://github.com/Block-Network/StatusBarLyric/blob/Dev/doc/EULA.md)
 
-[GNU General Public License v3.0](LICENSE)
+[GNU General Public License v3.0](https://github.com/Block-Network/StatusBarLyric/blob/Dev/LICENSE)
